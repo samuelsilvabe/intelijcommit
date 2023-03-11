@@ -7,6 +7,6 @@ public class PrimeiroPrograma {
         System.out.println(gato);
         System.out.println("Estou apenas testando o Github");
         System.out.println("Estou apenas testando o Github");
-        System.out.println("Testando incompatibilidade de origens com o GitHub");
+        System.out.println("Testando incompatibilidade de origens com o GitHub ");
     }
 }
